@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome to my github profile
 
-<!--
-**nveniz/nveniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since I am really busy with uni work I am not as I active as I wish
 
-Here are some ideas to get you started:
+Some things about me:
+- I like learning new things
+- I love Linux and C programming
+- I tinker with different stuff ranging from hardware to software
+- Interested about systems programming, networking and security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+More info at : 
+
