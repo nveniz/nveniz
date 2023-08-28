@@ -7,6 +7,3 @@ Some things about me:
 - I tinker with different stuff ranging from hardware to software
 - Interested about systems programming, networking and security
 
-
-More info at : https://nveniz.github.io/
-
