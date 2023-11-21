@@ -1,9 +1,7 @@
 ### Welcome to my github profile
 
-Since I am really busy with uni work I am not as I active as I wish
-
 Some things about me:
-- I love Linux and C programming
+- I enjoy Linux and C programming
 - I tinker with different stuff ranging from hardware to software
 - Interested about systems programming, networking and security
 
